@@ -1,1 +1,1 @@
-worker: python Zcux.py
+worker: python Fucker.py
